@@ -1,0 +1,15 @@
+# Compiled class files
+*.class
+bin/
+out/
+
+# IDE Settings
+.settings/
+.classpath
+.project
+.idea/
+*.iml
+
+# Secrets and Build Artifacts (CRITICAL)
+*.jar
+*.zip
