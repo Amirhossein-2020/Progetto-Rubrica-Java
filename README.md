@@ -16,6 +16,3 @@ Software di gestione contatti con interfaccia grafica e persistenza su database.
 1. Eseguire lo script `schema_database.sql` nel proprio client MySQL per creare il database e l'utente di test.
 2. Modificare il file `credenziali_database.properties` inserendo le proprie credenziali MySQL locali.
 3. Compilare ed eseguire il progetto (classe Main: `rubrica.RubricaFrame`).
-
-## Autore
-Amirhossein Khishvand
